@@ -1,0 +1,31 @@
+h1 {text-align: center;
+    margin-left: 875px;
+	font-family:'Cookie',cursive;
+    font-size:250%;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+body {background-image: url(https://www.belayadvisor.com/wp-content/uploads/2015/06/Students-in-lecture-hall.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+#controls {position: relative;
+           left:925px;
+           width: 400px;
+           height:400px;
+	       padding: 0px;
+	       text-align: center;
+           border:solid;
+           background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxQ3RrnrXZK_Gbrmzc3eUsk_eQvzd-PdU5gCBm-kPDljMCvWj+);
+           background-repeat: no-repeat;
+           background-size: cover;
+}
+
+label {color: white;
+       font-size: 150%;
+}
+
+strong {color: red;
+}
